@@ -14,11 +14,12 @@ import Team from "./components/Team";
 import Testimonial from "./components/Testimonial";
 import About from "./components/About";
 import SecoundRouteHomePage from "./pages/SecoundRouteHomePage";
+import Home from "./components/Home";
 
 function App() {
   return (
     <div className="App">
-      {/* <Router>
+      <Router>
         <Routes>
           <Route exact path="/" element={<HomePage />} />
           <Route exact path="/TeamPage" element={<TeamPage />} />
@@ -26,11 +27,12 @@ function App() {
           <Route exact path="/AboutPage" element={<AboutPage />} />
           <Route exact path="/ContactUsPage" element={<ContactUsPage />} />
         </Routes>
-      </Router> */}
-      <Router>
+      </Router>
+
+      {/* <Router>
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<SecoundRouteHomePage />} />
+          <Route exact path="/" element={<Home />} />
           <Route exact path="/AboutPage" element={<About />} />
           <Route exact path="/TeamPage" element={<Team />} />
           <Route exact path="/TestimonialPage" element={<Testimonial />} />
@@ -38,7 +40,7 @@ function App() {
           <Route exact path="/ContactUsPage" element={<ContactUs />} />
         </Routes>
         <Footer />
-      </Router>
+      </Router> */}
     </div>
   );
 }
