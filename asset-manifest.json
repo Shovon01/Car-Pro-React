@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Car-Pro-React/static/css/main.15141e1c.css",
-    "main.js": "/Car-Pro-React/static/js/main.3f40a488.js",
-    "static/js/787.a41b1c55.chunk.js": "/Car-Pro-React/static/js/787.a41b1c55.chunk.js",
-    "static/media/image-two.jpg": "/Car-Pro-React/static/media/image-two.9a61b09433cd3e50bacd.jpg",
-    "static/media/rod.jpg": "/Car-Pro-React/static/media/rod.7aa47086b9535b8740b5.jpg",
-    "static/media/image-three.jpg": "/Car-Pro-React/static/media/image-three.b4e848b394d519b9a19c.jpg",
-    "static/media/image-one.jpg": "/Car-Pro-React/static/media/image-one.10806b59ba87657d71a2.jpg",
-    "static/media/vin.jpg": "/Car-Pro-React/static/media/vin.94346bd77df6795faff3.jpg",
-    "static/media/man.jpg": "/Car-Pro-React/static/media/man.c47d82249be05cc72ddf.jpg",
-    "static/media/girl1.jpg": "/Car-Pro-React/static/media/girl1.7757a5d710bb1229da6c.jpg",
-    "static/media/paulwalker.jpg": "/Car-Pro-React/static/media/paulwalker.6ff5544de6c094d719a4.jpg",
-    "static/media/girl.jpg": "/Car-Pro-React/static/media/girl.d6920d42e94e082a63b3.jpg",
-    "static/media/rock.jpg": "/Car-Pro-React/static/media/rock.09c87ba3acf647ca3ca1.jpg",
-    "index.html": "/Car-Pro-React/index.html",
-    "main.15141e1c.css.map": "/Car-Pro-React/static/css/main.15141e1c.css.map",
-    "main.3f40a488.js.map": "/Car-Pro-React/static/js/main.3f40a488.js.map",
-    "787.a41b1c55.chunk.js.map": "/Car-Pro-React/static/js/787.a41b1c55.chunk.js.map"
+    "main.css": "/static/css/main.481f1c23.css",
+    "main.js": "/static/js/main.f339930b.js",
+    "static/js/787.a41b1c55.chunk.js": "/static/js/787.a41b1c55.chunk.js",
+    "static/media/image-two.jpg": "/static/media/image-two.9a61b09433cd3e50bacd.jpg",
+    "static/media/rod.jpg": "/static/media/rod.7aa47086b9535b8740b5.jpg",
+    "static/media/image-three.jpg": "/static/media/image-three.b4e848b394d519b9a19c.jpg",
+    "static/media/image-one.jpg": "/static/media/image-one.10806b59ba87657d71a2.jpg",
+    "static/media/vin.jpg": "/static/media/vin.94346bd77df6795faff3.jpg",
+    "static/media/man.jpg": "/static/media/man.c47d82249be05cc72ddf.jpg",
+    "static/media/girl1.jpg": "/static/media/girl1.7757a5d710bb1229da6c.jpg",
+    "static/media/paulwalker.jpg": "/static/media/paulwalker.6ff5544de6c094d719a4.jpg",
+    "static/media/girl.jpg": "/static/media/girl.d6920d42e94e082a63b3.jpg",
+    "static/media/rock.jpg": "/static/media/rock.09c87ba3acf647ca3ca1.jpg",
+    "index.html": "/index.html",
+    "main.481f1c23.css.map": "/static/css/main.481f1c23.css.map",
+    "main.f339930b.js.map": "/static/js/main.f339930b.js.map",
+    "787.a41b1c55.chunk.js.map": "/static/js/787.a41b1c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15141e1c.css",
-    "static/js/main.3f40a488.js"
+    "static/css/main.481f1c23.css",
+    "static/js/main.f339930b.js"
   ]
 }
