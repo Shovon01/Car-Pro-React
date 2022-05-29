@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.481f1c23.css",
-    "main.js": "/static/js/main.f339930b.js",
-    "static/js/787.a41b1c55.chunk.js": "/static/js/787.a41b1c55.chunk.js",
-    "static/media/image-two.jpg": "/static/media/image-two.9a61b09433cd3e50bacd.jpg",
-    "static/media/rod.jpg": "/static/media/rod.7aa47086b9535b8740b5.jpg",
-    "static/media/image-three.jpg": "/static/media/image-three.b4e848b394d519b9a19c.jpg",
-    "static/media/image-one.jpg": "/static/media/image-one.10806b59ba87657d71a2.jpg",
-    "static/media/vin.jpg": "/static/media/vin.94346bd77df6795faff3.jpg",
-    "static/media/man.jpg": "/static/media/man.c47d82249be05cc72ddf.jpg",
-    "static/media/girl1.jpg": "/static/media/girl1.7757a5d710bb1229da6c.jpg",
-    "static/media/paulwalker.jpg": "/static/media/paulwalker.6ff5544de6c094d719a4.jpg",
-    "static/media/girl.jpg": "/static/media/girl.d6920d42e94e082a63b3.jpg",
-    "static/media/rock.jpg": "/static/media/rock.09c87ba3acf647ca3ca1.jpg",
-    "index.html": "/index.html",
-    "main.481f1c23.css.map": "/static/css/main.481f1c23.css.map",
-    "main.f339930b.js.map": "/static/js/main.f339930b.js.map",
-    "787.a41b1c55.chunk.js.map": "/static/js/787.a41b1c55.chunk.js.map"
+    "main.css": "/car-pro-react/static/css/main.2a6c3f91.css",
+    "main.js": "/car-pro-react/static/js/main.7f3c0b3d.js",
+    "static/js/787.a41b1c55.chunk.js": "/car-pro-react/static/js/787.a41b1c55.chunk.js",
+    "static/media/image-two.jpg": "/car-pro-react/static/media/image-two.9a61b09433cd3e50bacd.jpg",
+    "static/media/rod.jpg": "/car-pro-react/static/media/rod.7aa47086b9535b8740b5.jpg",
+    "static/media/image-three.jpg": "/car-pro-react/static/media/image-three.b4e848b394d519b9a19c.jpg",
+    "static/media/image-one.jpg": "/car-pro-react/static/media/image-one.10806b59ba87657d71a2.jpg",
+    "static/media/vin.jpg": "/car-pro-react/static/media/vin.94346bd77df6795faff3.jpg",
+    "static/media/man.jpg": "/car-pro-react/static/media/man.c47d82249be05cc72ddf.jpg",
+    "static/media/girl1.jpg": "/car-pro-react/static/media/girl1.7757a5d710bb1229da6c.jpg",
+    "static/media/paulwalker.jpg": "/car-pro-react/static/media/paulwalker.6ff5544de6c094d719a4.jpg",
+    "static/media/girl.jpg": "/car-pro-react/static/media/girl.d6920d42e94e082a63b3.jpg",
+    "static/media/rock.jpg": "/car-pro-react/static/media/rock.09c87ba3acf647ca3ca1.jpg",
+    "index.html": "/car-pro-react/index.html",
+    "main.2a6c3f91.css.map": "/car-pro-react/static/css/main.2a6c3f91.css.map",
+    "main.7f3c0b3d.js.map": "/car-pro-react/static/js/main.7f3c0b3d.js.map",
+    "787.a41b1c55.chunk.js.map": "/car-pro-react/static/js/787.a41b1c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.481f1c23.css",
-    "static/js/main.f339930b.js"
+    "static/css/main.2a6c3f91.css",
+    "static/js/main.7f3c0b3d.js"
   ]
 }
