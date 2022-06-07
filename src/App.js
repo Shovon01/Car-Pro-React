@@ -18,30 +18,26 @@ import Home from "./components/Home";
 
 function App() {
   return (
-    <div className="App">
-      <Router>
-        <Routes>
-          <Route exact path="/" element={<HomePage />} />
-          <Route exact path="/TeamPage" element={<TeamPage />} />
-          <Route exact path="/TestimonialPage" element={<TestimonialPage />} />
-          <Route exact path="/AboutPage" element={<AboutPage />} />
-          <Route exact path="/ContactUsPage" element={<ContactUsPage />} />
-        </Routes>
-      </Router>
+    <Router>
+      <Routes>
+        <Route exact path="/car-pro-react" element={<HomePage />} />
+        <Route exact path="/TeamPage" element={<TeamPage />} />
+        <Route exact path="/TestimonialPage" element={<TestimonialPage />} />
+        <Route exact path="/AboutPage" element={<AboutPage />} />
+        <Route exact path="/ContactUsPage" element={<ContactUsPage />} />
+      </Routes>
+    </Router>
 
-      {/* <Router>
-        <Navbar />
-        <Routes>
-          <Route exact path="/" element={<Home />} />
-          <Route exact path="/AboutPage" element={<About />} />
-          <Route exact path="/TeamPage" element={<Team />} />
-          <Route exact path="/TestimonialPage" element={<Testimonial />} />
+    // {/* <Router>
+    //   <Routes>
+    //     <Route exact path="/" element={<Home />} />
+    //     <Route exact path="/AboutPage" element={<About />} />
+    //     <Route exact path="/TeamPage" element={<Team />} />
+    //     <Route exact path="/TestimonialPage" element={<Testimonial />} />
 
-          <Route exact path="/ContactUsPage" element={<ContactUs />} />
-        </Routes>
-        <Footer />
-      </Router> */}
-    </div>
+    //     <Route exact path="/ContactUsPage" element={<ContactUs />} />
+    //   </Routes>
+    // </Router> */}
   );
 }
 
